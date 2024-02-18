@@ -1464,6 +1464,9 @@ footer {
   .teams-social .socials-container{
     top: -80px;
   }
+  .teams-section.assist .assist-container .text a{
+    font-size: 14px;
+  }
 }
 
 @media (max-width: 550px) {
@@ -1545,7 +1548,7 @@ footer {
     gap: 2rem;
   }
   .teams-cards-container .teams-card {
-    height: 50vh;
+    height: 53vh;
   }
   .features .features-card h1{
     display: none;
